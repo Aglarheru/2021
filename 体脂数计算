@@ -1,0 +1,4 @@
+A=eval(input(""))
+B=eval(input(""))
+C=B/(A*A)
+print("偏胖"if C>=27.5 else"偏瘦")
